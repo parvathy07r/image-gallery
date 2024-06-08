@@ -5,6 +5,7 @@
 .gallery-img {
     display: none;
     max-height: 400px;
+    margin-top: 50px;
 }
 
 .active {
@@ -33,6 +34,7 @@
     border-color: transparent;
     border-radius: 5px;
     cursor:  pointer;
+    margin-top: 20px;
 }
 
 .prev {
